@@ -1,4 +1,5 @@
 streamlit>=1.28
+matplotlib
 langchain>=0.0.217
 openai>=1.2
 duckduckgo-search
