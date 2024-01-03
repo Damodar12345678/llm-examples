@@ -14,3 +14,5 @@ st.markdown("""
     </div>
     """, unsafe_allow_html=True)
 st.image('DOWNLOAD.png')
+"""
+API Key `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`"""
